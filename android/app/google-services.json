@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "890697411637",
+    "project_id": "notes-todo-fb",
+    "storage_bucket": "notes-todo-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890697411637:android:d83cf73acd6659cc3fd57c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_learning_method"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890697411637-6j00hfr4uj09e0k6t3baq8ikfjej3aae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmt7ocnEoQx6FYjGmIxlPiONCvb-orbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890697411637-6j00hfr4uj09e0k6t3baq8ikfjej3aae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890697411637:android:0454175c604d735b3fd57c",
+        "android_client_info": {
+          "package_name": "com.example.note_todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890697411637-6j00hfr4uj09e0k6t3baq8ikfjej3aae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmt7ocnEoQx6FYjGmIxlPiONCvb-orbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890697411637-6j00hfr4uj09e0k6t3baq8ikfjej3aae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890697411637:android:f14dea20f794e25c3fd57c",
+        "android_client_info": {
+          "package_name": "com.example.notes_todo_firesbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890697411637-6j00hfr4uj09e0k6t3baq8ikfjej3aae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmt7ocnEoQx6FYjGmIxlPiONCvb-orbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890697411637-6j00hfr4uj09e0k6t3baq8ikfjej3aae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
